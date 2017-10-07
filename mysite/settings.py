@@ -25,7 +25,7 @@ SECRET_KEY = 'kr(5^fp$r+sl_u67p_toc@c56d&8d&n*6e^effn%57a5$i(ysx'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'Kate.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'fortel.pythonanywhere.com']
 
 
 # Application definition
